@@ -10,13 +10,14 @@ https://nodejs.org/en/download/  if not installed earlier.
 2. click on Download Zip from the link 
 https://github.com/nerkar/angular2Initializer/
 
-3 unzip folder.
-4 copy and paste  Angular2Initializer.exe into the directory where you want to create your Angular2  project.
-5 Run Angular2Initializer.exe  as administrator mode.
-6 (if smart screen shows then click on "Run Any Way" 
-7 wait for while as  it will take time to install package, depends upon your internet speed.
+3 unzip folder. <br>
+4 copy and paste  Angular2Initializer.exe into the directory where you want to create your Angular2  project. <br>
+5 Run Angular2Initializer.exe  as administrator mode. <br>
+6 (if smart screen shows then click on "Run Any Way"  <br>
+7 wait for while as  it will take time to install package, depends upon your internet speed. <br>
 
-8. it will open browser showing   "Angular2 project setup successfully"
+8. it will open browser showing   "Angular2 project setup successfully" <br>
+
 
 
 
