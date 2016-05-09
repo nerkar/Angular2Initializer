@@ -15,7 +15,6 @@ https://github.com/nerkar/angular2Initializer/
 5 Run Angular2Initializer.exe  as administrator mode. <br>
 6 (if smart screen shows then click on "Run Any Way"  <br>
 7 wait for while as  it will take time to install package, depends upon your internet speed. <br>
-
 8. it will open browser showing   "Angular2 project setup successfully" <br>
 
 
