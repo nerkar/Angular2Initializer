@@ -7,7 +7,7 @@
 1. before running  this .exe  install node.js from  
 https://nodejs.org/en/download/  if not installed earlier.
 
-2. click on Download Zip from the link 
+2. click on Download  <a href="https://raw.githubusercontent.com/nerkar/Angular2Initializer/master/Angular2Initializer.exe">Link here </a> <br>
 https://github.com/nerkar/angular2Initializer/
 
 3 unzip folder. <br>
