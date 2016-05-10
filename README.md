@@ -15,16 +15,7 @@ https://nodejs.org/en/download/  if not installed earlier.
 7. it will open browser showing   "Angular2 project setup successfully" <br>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+<h3> start coding </h3>
+any change in .ts file is automatically reflected in browser NO need to refresh manually.
+(only leave server running)
 
